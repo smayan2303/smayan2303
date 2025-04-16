@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Smayan, a Data Science Student at the University of Michigan. I am currently studying Web Systems and Machine Learning as my Main Technical Courses this Semester. I am currently learning SQL, R, and PowerBI in my free time as well to expand my horizons in the data science field.
+Hi, I'm Smayan, a Data Science Student at the University of Michigan and I am currently studying Web Systems and Machine Learning as my Main Technical Courses this Semester.
 
 
 ## 🌐 Socials:
